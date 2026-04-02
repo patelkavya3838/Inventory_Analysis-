@@ -19,9 +19,8 @@ across 300 parts and 280k rows of supply chain data.
 - Slow Moving & Obsolescence Risk
 
 ### Data Source
-Data used in this project is synthetic/simulated data 
+Data obtained from Kaggle — https://www.kaggle.com/datasets/robertocarlost/aerospace-supply-chain-performance-and-forecasting?utm_source=chatgpt.com 
 for educational and portfolio purposes only.
-It does not represent any real company or organization.
 
 ### Key Findings
 - A-class parts represent 48.68% of total inventory value
